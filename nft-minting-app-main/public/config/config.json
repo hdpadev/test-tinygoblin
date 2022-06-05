@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8a08f415a9214d70917735e7cd9b2392f4b2789d",
+  "SCAN_LINK": "https://etherscan.io/token/0x8a08f415a9214d70917735e7cd9b2392f4b2789d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "TINY GOBLIN WTF",
+  "SYMBOL": "TGWTF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2500000000000000,
+  "DISPLAY_COST": 0.0025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tinygoblinwtf",
+  "SHOW_BACKGROUND": true
+}
